@@ -19,4 +19,5 @@ X = DFT(x)
 print("tin hieu x[n]:")
 print(x)
 print("DFT X[k]:")
+
 print(X)
